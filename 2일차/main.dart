@@ -1,12 +1,5 @@
 void main() {
-  String a = 'banana';
+  // 구구단 중 짝수에 해당하는 단만 출력하기
 
-  if (a == '1') {
-    print("object");
-  } else if (a == 'banana') {
-    print("banana");
-  } else
-    (a) {
-      print("no cases");
-    };
+  int i;
 }
